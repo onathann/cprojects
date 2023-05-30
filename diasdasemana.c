@@ -30,6 +30,8 @@ switch (dia) {
   case 7:
     printf("sabado");
     break;
+  default:
+    printf("isso nao e um dia da semana");
 }
 
 
